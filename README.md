@@ -6,7 +6,7 @@ C languages basic and advance features
 ### Linux env setup
 
 
-``` bat
+``` console
 sudo apt update
 ```
 
