@@ -83,10 +83,20 @@ VS code remote window for ubuntu(WSL) environment.
 Different from environment for windows.
 
 
-#### To Run the program .c
+#### To Build and Run the program .c on VS code
 
 ` Terminal => Run Build Task => C/C++: gcc build active file`
 
 On terminal,
 ` ./file_name ```tab``` `
 ```console  ./program_name ```
+
+#### To build without VS code
+
+``` console
+$ gcc -Wall -g hello.c -o hello
+
+-Wall: Enable notification of all warnings.
+-g: Add debug information to the executable hello.c 
+-o output-filename: Output the program with the name specified.
+```
