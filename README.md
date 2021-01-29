@@ -111,3 +111,11 @@ $ man 3 printf
 read the manual of function_name printf. 
 [Q] to quite the manual interface.
 ```
+
+## To see C program inside bash terminal
+
+``` console
+$ cat executable.c
+
+cat and exexuatble file with .c extension.
+```
