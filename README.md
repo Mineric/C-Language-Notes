@@ -7,6 +7,6 @@ C languages basic and advance features
 
 
 ``` console
-sudo apt update
+$ sudo apt update
 ```
 
