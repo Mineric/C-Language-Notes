@@ -100,3 +100,14 @@ $ gcc -Wall -g hello.c -o hello
 -g: Add debug information to the executable hello.c 
 -o output-filename: Output the program with the name specified.
 ```
+
+
+
+## To read manual
+
+``` console
+$ man 3 printf
+
+read the manual of function_name printf. 
+[Q] to quite the manual interface.
+```
