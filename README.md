@@ -87,6 +87,8 @@ Different from environment for windows.
 
 ` Terminal => Run Build Task => C/C++: gcc build active file`
 
+`Create New Terminal '+' to run on the terminal.`
+
 On terminal,
 ` ./file_name` ```ENTER tab``` 
 ```console  ./program_name ```
