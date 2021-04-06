@@ -88,7 +88,7 @@ Different from environment for windows.
 ` Terminal => Run Build Task => C/C++: gcc build active file`
 
 On terminal,
-` ./file_name` ```tab``` `
+` ./file_name` ```ENTER tab``` 
 ```console  ./program_name ```
 
 #### To build without VS code
