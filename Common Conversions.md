@@ -1,7 +1,7 @@
 
 Common Converstions Character in C language
 
-Functions such as ```c++ printf() ``` and ```c++ scanf()``` use converstion characters as placeholder for various values.
+Functions such as ```cpp printf() ``` and ```cpp scanf()``` use converstion characters as placeholder for various values.
 Converstion characters are used to indicate a value when the funcion runs in the final program.
 
 |%c a single chracter (char)
