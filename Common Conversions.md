@@ -8,14 +8,6 @@ Converstion characters are used to indicate a value when the funcion runs in the
 
 
 
-|%c a single chracter (char)
+|%c | a single chracter (char) |
 
-%d
-
-%e
-
-%E
-
-%f
-
-%g
+|%c | a single chracter (char) |
