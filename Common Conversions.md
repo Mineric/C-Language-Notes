@@ -1,5 +1,7 @@
 
-Common Converstions Character in C language
+# Common Converstions Character in C language
+
+## Converstions characters
 
 Functions such as 
 ``` printf()``` and ``` scanf() ``` 
