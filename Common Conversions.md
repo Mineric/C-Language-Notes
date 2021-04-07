@@ -11,10 +11,15 @@ Converstion characters are used to indicate a value when the funcion runs in the
 |Conversion Character |   Display Character Type     |
 |---------------------|------------------------------|
 |%c | a single chracter (char) |
+|%s | string chracter (short, int, long) |
+|%u | unsigned chracter (unsigned short, unsigned int, unsigned long) |
 |%d | interger values (short, int) |
+|%ld| Long integer value (long int)|
+|%lld| Long long integer value (long long int)|
 |%e | floating point values (float, double) |
 |%E | floating point values (float, double) |
 |%f | floating point value in decimal notation (float, double)|
 |%G | Substitutes %f or %E, whichever is shorter (float, double) |
-|%i | integervalue  (short, int) |
-| __%p__ |  __Memory location in hexadecimal__ `(__*pointer__)`  | 
+|%i | integer value  (short, int) |
+|%x | unsigned hexadecimal  (short, int, long) |
+| __%p__ |  __Memory location in hexadecimal__ `(*pointer)`  | 
