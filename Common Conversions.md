@@ -8,6 +8,8 @@ Converstion characters are used to indicate a value when the funcion runs in the
 
 
 
+|Conversion Character |        |
+|---------------------|--------|
 |%c | a single chracter (char) |
 
 |%c | a single chracter (char) |
