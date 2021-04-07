@@ -17,7 +17,4 @@ Converstion characters are used to indicate a value when the funcion runs in the
 |%f | floating point value in decimal notation (float, double)|
 |%G | Substitutes %f or %E, whichever is shorter (float, double) |
 |%i | integervalue  (short, int) |
-
-
-
-| ### %p|  ### Memory location in hexadecimal (*pointer)  | 
+| ###%p|  ###Memory location in hexadecimal (*pointer)  | 
