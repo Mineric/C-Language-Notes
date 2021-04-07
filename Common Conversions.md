@@ -1,14 +1,13 @@
 
 # Common Converstions Character in C language
 
-## Converstions characters
-
 Functions such as 
 ``` printf()``` and ``` scanf() ``` 
 use converstion characters as placeholder for various values.
 Converstion characters are used to indicate a value when the funcion runs in the final program.
 
 
+#### Converstion Characters
 
 |Conversion Character |   Display Character Type     |
 |---------------------|------------------------------|
