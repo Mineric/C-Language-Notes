@@ -22,6 +22,6 @@ Converstion characters are used to indicate a value when the funcion runs in the
 |%G | Substitutes %f or %E, whichever is shorter (float, double) |
 |%i | integer value  (short, int) |
 |%x | unsigned hexadecimal  (short, int, long) |
-|Pointer|                                      |
-|---------------------|------------------------------|
+|   |                                          |
+| ___Pointer___ |                                      |
 | __%p__ |  __Memory location in hexadecimal__ `(*pointer)`  | 
