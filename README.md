@@ -37,16 +37,18 @@ $ explorer.exe file_name    //this will open the file directory that is created.
 
 ``` console
 $ pwd  
+(Print Working Directory)
 show the current directory 
 
 $ cd path
 change current directory to the path specified.
 
 $ mkdir path
+(make directory)
 create a directory with a path specified.
 
 $ rmdir path
-remove direcoty with path specifed. Falied when path is not existed.
+remove directory with path specifed. Falied when path is not existed.
 
 $ code path
 Open the file/directory specifed with "Visual studio code remote"
