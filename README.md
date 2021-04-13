@@ -29,6 +29,7 @@ $ sudo apt update -y
 
 ``` console
 $ mkdir file_name
+
 $ explorer.exe file_name    //this will open the file directory that is created.
 ```
 
