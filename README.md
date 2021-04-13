@@ -96,6 +96,11 @@ On terminal,
 ` ./file_name` ```ENTER tab``` 
 ```console  ./program_name ```
 
+#### To Run Python Programs
+
+``` bash
+$python filename.py
+```
 #### To build without VS code
 
 ``` console
