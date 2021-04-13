@@ -101,6 +101,17 @@ On terminal,
 ``` bash
 $python filename.py
 ```
+
+#### To Know the time of program execution time
+
+``` console
+// C program
+$time ./filename   //( .c extension is not required)
+
+// Python Program
+$time filename.py  //( .py extension is necessary)
+```
+
 #### To build without VS code
 
 ``` console
