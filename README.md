@@ -112,6 +112,23 @@ $time ./filename   //( .c extension is not required)
 $time filename.py  //( .py extension is necessary)
 ```
 
+Output may be different base on version of shell.
+```
+Output
+
+# Bash
+real	0m33.961s
+user	0m0.340s
+sys	0m0.940s
+
+# Zsh
+0.34s user 0.94s system 4% cpu 33.961 total
+
+# GNU time (sh)
+0.34user 0.94system 0:33.96elapsed 4%CPU (0avgtext+0avgdata 6060maxresident)k
+0inputs+201456outputs (0major+315minor)pagefaults 0swaps
+```
+
 #### To build without VS code
 
 ``` console
