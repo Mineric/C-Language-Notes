@@ -13,7 +13,7 @@ But in C language
 We have two type, single-precision floating point number and double-precision floating point number.
 
 ``` C
-float
-double
+float  (32 bit)
+double (64 bit)
 
 ```
