@@ -19,3 +19,15 @@ double
 ```
 
 #### It is usually recommended to use double in order to attain higher precisions and accuracy.
+
+
+
+``` C 
+
+float x = 0.5;
+double y = 0.5;
+
+scanf("%f \n", x);
+scanf("%lf \n", y);
+
+```
