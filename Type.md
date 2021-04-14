@@ -20,7 +20,8 @@ double
 
 #### It is usually recommended to use double in order to attain higher precisions and accuracy.
 
-
+double (%lf)
+float (%f)
 
 ``` C 
 
