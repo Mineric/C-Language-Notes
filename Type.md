@@ -14,6 +14,6 @@ We have two type, single-precision floating point number and double-precision fl
 
 ``` C
 float
-dobule
+double
 
 ```
