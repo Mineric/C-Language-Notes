@@ -10,10 +10,10 @@ float
 
 But in C language
 
-We have two type, single-precision floating point number and double-precision floating point number.
+We have two type, single-precision floating point number (32 bit) and double-precision floating point number (64 bit).
 
 ``` C
-float  (32 bit)
-double (64 bit)
+float  
+double 
 
 ```
