@@ -32,3 +32,6 @@ scanf("%f \n", x);
 scanf("%lf \n", y);
 
 ```
+
+
+#### char is an int based. So, it is possible to assign an integer value in char but its not recommended to use it.
