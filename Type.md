@@ -45,5 +45,6 @@ Bool are represented with numberical values such as (float and int) and  pointer
 non-zero values represent true and zero represent false.
 
 ``` console
-while(1)
+while(1)  => while(True)
+while(0)  => while(False)
 ```
