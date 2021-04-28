@@ -1,4 +1,4 @@
-Pointers are also data. Pointer only store addresses. and it can point to values stores in those address by dereferencing operators.
+Pointers are also data. Pointer only store addresses. and it can point to values stores in those address by dereferencing operators `*`.
 
 `*`(asterisk) has three meaning in C language.
 `*` , This unary operator is to,
