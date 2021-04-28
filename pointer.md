@@ -1,7 +1,7 @@
 Pointers are also data.
 
-* (asterisk) has three meaning in C language.
-* , This unary operator is to,
+"*" (asterisk) has three meaning in C language.
+"*" , This unary operator is to,
 - to assign a pointer variable type.
 - As a dereference operator.
 - multiplication
