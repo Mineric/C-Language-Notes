@@ -112,4 +112,4 @@ int main() {
 - access the value insides the address stored by dereferencing operator `*`.
 1. `p` Show pointer stored values which is an address value of the varaible `x` that it's pointing.  (p store x address as values)
 2. `*p` using dereference operator to show the values inside memory address that it's pointing at.   (*p access variable `x` values by memory address that is pointing (storing))
-- To know the memory address of pointer, use a double pointer.
+- To know the memory address of a pointer, use the double pointers.
