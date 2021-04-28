@@ -8,12 +8,14 @@ Pointers are also data.
 
 ``` C
 int *p;     //pointer variable type assignment.
+int *q;
 int x = 2;
 
 // pointern is like an arrow.
 // p alone will return address that its pointing to.
 // *p will return the values inside the memory address its pointing at.
-*p = &x;
+p = &x;
+*q = *p;   // * here as dereference operator.
 
 printf("%p \n", p);    // will print  memory address that p is pointing at.
 printf("%d \n", *p);   // will print  values inside memory address that p is point at.
