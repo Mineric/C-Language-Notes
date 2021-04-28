@@ -7,7 +7,7 @@ Pointers are also data.
 - multiplication
 
 ``` C
-int *p;
+int *p;     //pointer variable type assignment.
 int x = 2;
 
 // pointern is like an arrow.
