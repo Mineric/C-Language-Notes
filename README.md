@@ -93,7 +93,7 @@ Different from environment for windows.
 `Create New Terminal '+' to run on the terminal.`
 
 ###### for GCC compiler
-``` 
+``` console
 //to compile
 gcc progrma_name.c 
 
