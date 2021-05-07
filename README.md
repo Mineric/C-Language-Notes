@@ -92,6 +92,14 @@ Different from environment for windows.
 
 `Create New Terminal '+' to run on the terminal.`
 
+###### for GCC compiler
+``` 
+//to compile
+gcc progrma_name.c 
+
+//to run
+./a.out
+```
 On terminal,
 ` ./file_name` ```ENTER tab``` 
 ```console  ./program_name ```
