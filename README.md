@@ -92,10 +92,10 @@ Different from environment for windows.
 
 `Create New Terminal '+' to run on the terminal.`
 
-###### for GCC compiler
+###### for G++ compiler
 ``` console
 //to compile
-gcc progrma_name.c 
+g++ progrma_name.c 
 
 //to run
 ./a.out
