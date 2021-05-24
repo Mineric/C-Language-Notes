@@ -22,7 +22,7 @@ How to concantanate strings in C. ("Min" + "Eric" )
 
 ``` c
 
-# indclude <string.h>
+#indclude <string.h>
 memcpy(dest, src, size_t n)
 
 ```
