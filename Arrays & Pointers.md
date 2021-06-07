@@ -16,4 +16,6 @@ note: call by reference and call by values(arrays)
 
 In both arrays in C and python.
 (call by reference)
-Array are passed by reference
+
+Array are passed by reference.
+Changing the elemetns of arrays will also change to the orignal array.
